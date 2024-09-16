@@ -17,7 +17,7 @@ pip install wandb  # optional
 
 ### Data
 
-* Download [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/), [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) and [PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/) datasets.
+* Download [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) and [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) datasets.
 * Follow the preprocessing steps in `data_preprocessing`
 
 ## Running the code
